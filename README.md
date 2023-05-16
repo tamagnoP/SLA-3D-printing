@@ -5,4 +5,8 @@ It has been printed on Formlabs SuccincRuff Form 2 SLA 3D printer using Grey Pro
  
 The 3D piece can be used, for example, as a master mould for soft-lithography replication methods using soft elastomeric materials to fabricate a microfluidic chip.
 
+Each of the designs contains 3 independent channels with the same height (100 microns) and different widths (from 2 mm to 4 mm to 8 mm). The length of the channels is 10 mm. This configurations allows to tailor the wall shear stress inside the microchannels allowing:
+- running the channels simultaneously using for the same flow rate defined (3 independent channels connected to the same source pump (peristaltic, pressure-drive, syringe-based))
+- possibility to connect the outlet of one channel to the inlet of the second chanel... (Be aware of the distinct hydrostatic pressures inside each of the channels) 
+
 
